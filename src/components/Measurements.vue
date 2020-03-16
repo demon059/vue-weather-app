@@ -1,13 +1,13 @@
 <template>
-    $END$
+    <div>
+        1232
+    </div>
 </template>
 
 <script>
 export default {
-    name: "Measurements"
+    name: 'Measurements',
 }
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
